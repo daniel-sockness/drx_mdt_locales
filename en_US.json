@@ -26,7 +26,7 @@
     "LABEL": "Incidents",
     "EDIT": "Edit incident {id}",
     "CRIMINAL": {
-      "LABEL": "Criminal Scumbags",
+      "LABEL": "Suspects",
       "CRIMINALS": {
         "LABEL": "(#{identifier}) {fullname}",
         "EDIT": "Edit ",
